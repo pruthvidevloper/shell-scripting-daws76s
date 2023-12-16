@@ -1,1 +1,3 @@
 hi i am practicing github
+
+and i suceeded after troubleshooting the issue so this is my second commit
